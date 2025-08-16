@@ -1,10 +1,18 @@
 <!-- Banner -->
 <h1 align="center">
-  <b>Vijay Shankar M</b>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Vijay%20Shankar%20M&width=800&height=200" alt="Vijay Shankar M"/>
 </h1>
 
 <p align="center">
   <i> 🎓 CSE Student | 💻 Full Stack Developer | 🤖 AI Enthusiast</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px" alt="Coder GIF">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+Cloud+Explorer;Problem+Solver;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
 ---
@@ -42,6 +50,9 @@ I’m a **Computer Science** student, always eager to learn, build, and share. M
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayShankar10&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VijayShankar10&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true" />
+</p>
 
 ---
 
@@ -61,3 +72,5 @@ I’m a **Computer Science** student, always eager to learn, build, and share. M
   <a href="https://x.com/VijayShankar_10"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="http://vijayshankar.neocities.org/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
+
+---
