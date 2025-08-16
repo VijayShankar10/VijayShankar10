@@ -1,8 +1,6 @@
-<h1 align="center" style="background: background: linear-gradient(90deg, #ff5f9e, #5fd4e6); color:white; padding:12px 20px; border-radius:15px;">
+<h1 align="center" style="background: #1abc9c; color: white; padding: 10px; border-radius: 10px;">
   Vijay Shankar M
 </h1>
-
-
 
 
 <p align="center">
