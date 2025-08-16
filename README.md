@@ -1,7 +1,9 @@
-<!-- Banner -->
-<h1 align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Vijay%20Shankar%20M&width=800&height=200" alt="Vijay Shankar M"/>
+<h1 align="center" style="background: background: linear-gradient(90deg, #ff5f9e, #5fd4e6); color:white; padding:12px 20px; border-radius:15px;">
+  Vijay Shankar M
 </h1>
+
+
+
 
 <p align="center">
   <i> 🎓 CSE Student | 💻 Full Stack Developer | 🤖 AI Enthusiast</i>
