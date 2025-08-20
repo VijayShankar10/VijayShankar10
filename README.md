@@ -26,7 +26,7 @@ I’m a **Computer Science** student, always eager to learn, build, and share. M
 
 ### 🚀 What I’m Doing  
 - Practicing **DSA** on LeetCode for placements.  
-- Developing **full stack applications** with Java + React.  
+- Developing **full stack applications** with Node JS + React.  
 - Exploring **AI, Cloud Computing, and Automation tools**.  
 
 ---
